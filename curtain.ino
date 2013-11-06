@@ -1,8 +1,3 @@
-// Sweep
-// by BARRAGAN <http://barraganstudio.com> 
-// This example code is in the public domain.
-
-
 #include <Servo.h> 
 
 Servo snurr;  // create servo object to control a servo 
